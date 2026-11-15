@@ -24,3 +24,6 @@ How to Run
 
 Project Type
 Academic Project — Python GUI Application
+
+Application Screenshot
+[Note-Taking App](NoteTakingApp.png)
